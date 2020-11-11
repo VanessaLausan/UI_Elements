@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="sign">Sign Up Page</string>
+    <string name="firstname">firstName</string>
+    <string name="lastname">lastName</string>
+    <string name="lastname1">Enter Last Name</string>
+    <string name="firstname1">Enter First Name</string>
+    <string name="age1">"Age : "</string>
+    <string name="next">Next</string>
+    <string name="email">Enter Email</string>
+    <string name="withphone">With Phone Number</string>
+    <string name="phonenum">Phone Number</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="accountpage">Account Profile Page</string>
+    <string name="finalfname">First Name</string>
+    <string name="lastn">Last Name</string>
+    <string name="fname">First Name :</string>
+    <string name="lname">Last Name :</string>
+    <string name="agew">Age :</string>
+    <string name="emailll">Email Address :</string>
+    <string name="phone">Phone Number :</string>
+    <string name="birth">Birthdate :</string>
+    <string name="Enterphon">Enter Phone Number</string>
+</resources>
